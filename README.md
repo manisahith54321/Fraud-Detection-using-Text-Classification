@@ -1,1 +1,1 @@
-# Fraud-Detection-using-Text-Classification
+# Fraud Detection using text classification
